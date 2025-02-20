@@ -8,7 +8,6 @@ Mini projeto em Java para sistemas desktop (Windows, Linux ou MAC) que  busca au
 - Java SE
 - Window Builder
 - Validação de dados
-- Uso da biblioteca dom4j para trabalhar com xml
 
 ### Bibliotecas:
 [atxy2k](http://atxy2k.github.io/RestrictedTextField/)
